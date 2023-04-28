@@ -44,6 +44,3 @@ npm run lint
 цена
 слайдер, содержащий 2-4 изображения
 Дизайн модального окна продуман самостоятельно.
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
